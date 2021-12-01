@@ -77,10 +77,6 @@ const navbarNavigations = [
       },
     ],
   },
-  {
-    title: "Back to Demos",
-    url: "/landing",
-  },
   // {
   //   title: "Documentation",
   //   url:
